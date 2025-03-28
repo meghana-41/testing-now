@@ -1,0 +1,1 @@
+Routes related to chat functionalities.
