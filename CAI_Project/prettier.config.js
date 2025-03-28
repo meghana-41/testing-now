@@ -1,0 +1,1 @@
+Prettier configuration for code formatting.
