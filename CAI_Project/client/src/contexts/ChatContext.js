@@ -1,0 +1,1 @@
+Context for chat state management.
